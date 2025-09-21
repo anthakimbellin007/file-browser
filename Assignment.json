@@ -1,0 +1,4 @@
+let text = '{ "employees" : [' +
+'{ "firstName":"Anthony" , "lastName":"Bellinger" },' +
+'{ "firstName":"Anna" , "lastName":"Smith" },' +
+'{ "firstName":"Peter" , "lastName":"Jones" } ]}';
